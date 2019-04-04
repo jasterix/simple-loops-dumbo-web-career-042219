@@ -14,6 +14,7 @@ def loop_iterator(number_of_times)
     puts phrase
     i+=1
   end
+end
 
 
 def times_iterator(number_of_times)
