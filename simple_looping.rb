@@ -13,9 +13,7 @@ def loop_iterator(number_of_times)
   while i < number_of_times do
     puts phrase
     i+=1
-    
   end
-end
 
 
 def times_iterator(number_of_times)
