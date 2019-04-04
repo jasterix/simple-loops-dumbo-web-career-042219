@@ -12,6 +12,7 @@ def loop_iterator(number_of_times)
   puts number_of_times.times do
     puts phrase
 end
+end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
